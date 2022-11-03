@@ -92,8 +92,4 @@ generate_password_button.grid(column=2, row=3)
 add_button = tk.Button(text="Add", width=43, command=add_button, highlightthickness=0)
 add_button.grid(column=1, row=4, columnspan=2)
 
-
-
-
-
 window.mainloop()
